@@ -30,6 +30,7 @@ call vundle#begin()
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'https://github.com/ervandew/supertab.git'
+Plugin 'https://github.com/nvie/vim-flake8.git'
 
 
 " All of your Plugins must be added before the following line
