@@ -12,3 +12,6 @@ ln -s ./i3config ~/.config/i3/config
 
 #urxvt
 ln -s ./Xresources ~/.Xresources
+
+#bashrc
+ln -s ./bashrc ~/.bashrc
